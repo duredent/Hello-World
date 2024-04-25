@@ -4,7 +4,7 @@ Hi, I'm a curious person who enjoys learning new things, and programming sounds 
 I like games like Unreal World and Dwarf Fortress: I don't mind simple graphics, as long as it's inspiring.
 
 |Promotion  |Name               |Experience Requirement Multiplier | Total Experience to Max |
-|: --------:|:------           :|: ----:|: ------  :|
+|: ------- :|:---------------- :|: ------------------------------ :|: --------------------- :|
 |0	        |N/A	            |1x	    |59400      |
 |1	        |Titanium Star	    |1x	    |118800     |
 |2	        |Carbide Star	    |1x	    |178200     |
